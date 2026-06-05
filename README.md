@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Mohamed from Morocco 🇲🇦
+## Hi there 👋, I'm Mohamed from Morocco
 
 
 ## 🛠️ learning 
@@ -20,7 +20,7 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed-homrani&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github.com/Mohamed-homrani)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-homrani&layout=compact&theme=tokyonight)
 
