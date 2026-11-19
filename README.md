@@ -14,9 +14,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github.com/Mohamed-homrani)
+![GitHub Stats](https://github.com/Mohamed-Homrani-Adrideb)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-homrani&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Homrani-Adrideb&layout=compact&theme=tokyonight)
 
 ---
 
