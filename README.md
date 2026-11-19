@@ -20,6 +20,12 @@
 
 ---
 
+## 🚀 Projects
+
+- 🃏 [Blackjack Game](https://github.com/Mohamed-Homrani-Adrideb/blackjack-python) — a simple game of 21 made in Python
+
+  
+---
 ## 🔥 Current Focus
 - Reverse Engineering fundamentals
 - Cybersecurity & system security
