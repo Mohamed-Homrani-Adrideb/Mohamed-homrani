@@ -46,7 +46,7 @@
 | Domain | What I'm working on |
 |--------|---------------------|
 | 🌐 **Networking** | Cisco (basic configuration), routers & switches, network traffic analysis |
-| 🐧 **Systems** | Linux (Ubuntu, Arch, Kali, CentOS, Fedora), PowerShell |
+| 🐧 **Systems** | Linux, PowerShell ,windows ,bash|
 | ☁️ **Virtualization** | Docker, VMware vSphere, Proxmox VE, Hyper-V |
 | 💻 **Programming** | Python, MySQL, PowerShell for automation & scripting |
 | 🎨 **Office & Design** | Microsoft Office, Photoshop, Canva |
