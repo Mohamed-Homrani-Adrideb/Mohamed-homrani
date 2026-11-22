@@ -51,8 +51,7 @@
 | ☁️ **Virtualization** | Docker, VMware vSphere, Proxmox VE, Hyper-V |
 | 💻 **Programming** | Python, MySQL, PowerShell for automation & scripting |
 | 🎨 **Office & Design** | Microsoft Office, Photoshop, Canva |
-| 🤖 **AI** | Advanced AI tools in daily work |
- 
+
 ---
 
 ## 📊 GitHub Stats
