@@ -17,6 +17,7 @@
 - 🔐 Passionate about understanding how systems and networks really work, and how to secure them
 - 💬 Ask me about: **Linux**, **Virtualization**, **Networking**, **Python**
 - 📫 Reach me: [mohamedhomrani98@gmail.com](mailto:mohamedhomrani98@gmail.com)
+- linkdin : [https://www.linkedin.com/in/mohamed-homrani-adrideb/]
 ---
  
 ## 🎓 Education
@@ -53,17 +54,7 @@
 | 🤖 **AI** | Advanced AI tools in daily work |
  
 ---
- 
-## 🗣️ Languages
- 
-| Language | Level |
-|----------|-------|
-| 🇲🇦 Arabic | Native |
-| 🇫🇷 French | Intermediate |
-| 🇬🇧 English | Advanced |
- 
----
- 
+
 ## 📊 GitHub Stats
  
 <p align="center">
