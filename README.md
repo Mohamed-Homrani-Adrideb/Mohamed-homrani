@@ -17,7 +17,7 @@
 - 🔐 Passionate about understanding how systems and networks really work, and how to secure them
 - 💬 Ask me about: **Linux**, **Virtualization**, **Networking**, **Python**
 - 📫 Reach me: [mohamedhomrani98@gmail.com](mailto:mohamedhomrani98@gmail.com)
-- linkdin : [https://www.linkedin.com/in/mohamed-homrani-adrideb/]
+- 🔗 linkdin : https://www.linkedin.com/in/mohamed-homrani-adrideb/
 ---
  
 ## 🎓 Education
