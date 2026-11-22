@@ -85,7 +85,6 @@
 - [ ] Reverse Engineering fundamentals
 - [ ] Cybersecurity & system security
 - [ ] Automation with Python & PowerShell
-- [ ] Building real-world projects
 ---
  
 ## 🤝 Let's Connect
