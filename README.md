@@ -31,7 +31,7 @@
 ## 🛠️ Languages & Tools
  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,powershell,linux,ps&perline=9" alt="Skills"/>
+  <img src="https://skillicons.dev/icons?i=python,windows,bash,mysql,powershell,linux,ps&perline=9" alt="Skills"/>
   <br/>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco"/>
   <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware"/>
